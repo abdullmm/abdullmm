@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ... Maven, Docker, and Jenkins
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: mundabdulla97@gmail.com
 
 
